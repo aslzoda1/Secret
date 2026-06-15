@@ -19,3 +19,6 @@ Xabarlarni shifrlash va deshifrlash uchun xavfsizlik vositasi.
 ## 🛠 O'rnatish va Ishga tushirish
 
 ![hh](https://github.com/user-attachments/assets/266c173d-d1c1-4788-87a7-82a5d3412b89)
+
+
+aslzoda
